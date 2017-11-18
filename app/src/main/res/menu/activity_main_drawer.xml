@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="Home" />
+
+    <item android:title="Favoritos">
+        <menu>
+            <item
+                android:id="@+id/nav_ligas"
+                android:icon="@drawable/ic_group_black_24dp"
+                android:title="Ligas" />
+            <item
+                android:id="@+id/nav_times"
+                android:icon="@drawable/ic_security_black_24dp"
+                android:title="Times" />
+        </menu>
+    </item>
+
+
+</menu>

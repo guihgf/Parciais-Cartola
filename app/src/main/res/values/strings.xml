@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Parciais do Cartola 2017</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_buscar_time_favorito">Busque o seu time</string>
+    <string name="title_activity_home">Parciais do Cartola</string>
+    <string name="title_activity_teste">Teste</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="liga_filtros">
+        <item>Rodada</item>
+        <item>Campeonato</item>
+        <item>Turno</item>
+        <item>Mês</item>
+        <item>Patrimônio</item>
+    </string-array>
+    <string-array name="liga_ordens">
+        <item>Decrescente</item>
+        <item>Crescente</item>
+    </string-array>
+</resources>
